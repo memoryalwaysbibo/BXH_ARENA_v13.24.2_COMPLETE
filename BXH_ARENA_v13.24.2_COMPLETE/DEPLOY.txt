@@ -1,0 +1,4 @@
+BXH ARENA v13.24.2
+1. GitHub Pages: deploy index.html
+2. Firebase Console > Firestore Database > Rules: publish firestore_v13.24.2.rules
+Both are required for player community room creation.
